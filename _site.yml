@@ -5,15 +5,15 @@ navbar:
     - text: "" #"Home"
       icon: fa-home
       href: index.html
-    - text: "About me"
+    #- text: "About me"
       href: about.html
     - text: "Research"
       href: research.html
-    - text: "Teaching"
+    #- text: "Teaching"
       href: teaching.html
     #- text: "Personal"
       href: personal.html
-    - text: "Contact"
+    #- text: "Contact"
       href: contact.html
 output_dir: "."
 output:
